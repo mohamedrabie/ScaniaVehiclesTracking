@@ -1,0 +1,9 @@
+D:\Scania\VehiclesTrackingSystemFinal\VTS.Helpers\bin\Debug\Scania.VT.Helpers.dll
+D:\Scania\VehiclesTrackingSystemFinal\VTS.Helpers\bin\Debug\Scania.VT.Helpers.pdb
+D:\Scania\VehiclesTrackingSystemFinal\VTS.Helpers\obj\Debug\Scania.VT.Helpers.dll
+D:\Scania\VehiclesTrackingSystemFinal\VTS.Helpers\obj\Debug\Scania.VT.Helpers.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.Helpers\bin\Debug\Scania.VT.Helpers.dll
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.Helpers\bin\Debug\Scania.VT.Helpers.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.Helpers\obj\Debug\Scania.VT.Helpers.dll
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.Helpers\obj\Debug\Scania.VT.Helpers.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.Helpers\obj\Debug\Scania.VT.Helpers.csprojResolveAssemblyReference.cache

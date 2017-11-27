@@ -1,0 +1,14 @@
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\bin\Debug\Scania.VT.DTO.dll
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\bin\Debug\Scania.VT.DTO.pdb
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\bin\Debug\Scania.VT.Helpers.dll
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\bin\Debug\Scania.VT.Helpers.pdb
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\obj\Debug\Scania.VT.DTO.csprojResolveAssemblyReference.cache
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\obj\Debug\Scania.VT.DTO.dll
+D:\Scania\VehiclesTrackingSystemFinal\VTS.DTO\obj\Debug\Scania.VT.DTO.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\bin\Debug\Scania.VT.DTO.dll
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\bin\Debug\Scania.VT.DTO.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\bin\Debug\Scania.VT.Helpers.dll
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\bin\Debug\Scania.VT.Helpers.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\obj\Debug\Scania.VT.DTO.csprojResolveAssemblyReference.cache
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\obj\Debug\Scania.VT.DTO.dll
+D:\Scania\VehiclesTrackingSystemFinal\Scania.VT.DTO\obj\Debug\Scania.VT.DTO.pdb

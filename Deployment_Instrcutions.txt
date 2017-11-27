@@ -1,0 +1,14 @@
+The system consists of 6 main components
+1. Framework
+2. Services(Web Api)
+3. UI (MVC)
+4. Listener (Hub SignalR)
+5. Simulator (Windows Forms)
+5. Unit Tests
+
+- Open the solution and rebuild all
+- Updated the Connection strings in the web.config of both service and web application
+- Make the web Application under UI folder as startup project and run
+- Database will be created once the web application runs
+- Run the simulator exe and Enter the vehicle no that you want to be online
+- Open Listener page to check the status of vehicles

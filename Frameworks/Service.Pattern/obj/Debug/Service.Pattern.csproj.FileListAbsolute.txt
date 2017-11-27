@@ -1,0 +1,12 @@
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\Urf.Service.Pattern.dll.config
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\Urf.Service.Pattern.dll
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\Urf.Service.Pattern.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\System.Net.Http.dll
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\TrackableEntities.Common.dll
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\Urf.Repository.Pattern.dll
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\Urf.Repository.Pattern.pdb
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\Urf.Repository.Pattern.dll.config
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\bin\Debug\TrackableEntities.Common.xml
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\obj\Debug\Urf.Service.Pattern.dll
+D:\Scania\VehiclesTrackingSystemFinal\Frameworks\Service.Pattern\obj\Debug\Urf.Service.Pattern.pdb
